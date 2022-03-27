@@ -1,0 +1,19 @@
+{
+  "name": "q4-sprint1-aplicacao-de-notas-ivanrowlands",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Kenzie-Academy-Brasil-Developers/q4-sprint1-aplicacao-de-notas-ivanrowlands.git",
+  "author": "ivan <ivan.rowlands.macedo@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
